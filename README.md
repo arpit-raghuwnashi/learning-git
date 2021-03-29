@@ -1,5 +1,5 @@
 # learning-git
 
-New branching test purpose
 
 
+This is for everyone who wants to learn git main
